@@ -1,0 +1,15 @@
+{
+    "title": "O Senhor Dos Anéis: A Sociedade Do Anel",
+    "original_title": "The Lord of The Rings: the Fellowship of The Ring",
+    "is_movie": true,
+    "imdb_rating": 8.8,
+    "year": 2001,
+    "characters": [
+        "Frodo",
+        "Sam",
+        "Gandalf",
+        "Legolas",
+        "Boromir"
+    ],
+    "budget": null
+}
